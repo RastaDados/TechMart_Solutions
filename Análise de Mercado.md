@@ -66,7 +66,7 @@ A empresa buscava entender melhor sua performance comercial para:
 - Gráfico de barras
 - Variáveis: Region, Profit
 
-<b>Insights:</c>
+<b>Insights:</b>
 
 - Região Oeste é a mais lucrativa
 - Região Sul apresenta lucro baixo ou até perdas
